@@ -31,3 +31,9 @@ The application is based 100% on Python, where the models were trained using YOL
 ## Feedback
 
 We value your input and would love to hear your thoughts and suggestions! If you have any feedback about our models or the application, please feel free to share it with us. You can submit your feedback by creating a new issue in the [Issues](https://github.com/amine0110/pycad-annotation-guideline/issues) section of this repository. Your insights are important to us and will help improve the quality of our work.
+
+---
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/amine0110%2Fpycad-annotation-guideline/count.svg" />
+</p>
