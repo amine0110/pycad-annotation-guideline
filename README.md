@@ -34,6 +34,6 @@ We value your input and would love to hear your thoughts and suggestions! If you
 
 ---
 <p align="center"> 
-  Visitor count<br>
+  You are the visitor number<br>
   <img src="https://profile-counter.glitch.me/amine0110%2Fpycad-annotation-guideline/count.svg" />
 </p>
